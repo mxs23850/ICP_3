@@ -12,3 +12,4 @@ Using NumPy created a random vector of size 20 having only float in the range 1-
 Then reshaped the array to 4 by 5
 Then replaced the max in each row with 0 (axis=1)
 Explanation_Video
+
